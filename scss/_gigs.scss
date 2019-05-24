@@ -1,0 +1,13 @@
+.gigs-section {
+  padding-top: 10rem;
+  padding-bottom: 10rem;
+  background: $tan;
+  // background: linear-gradient(to bottom, $tan 0%,#{fade-out($tan, .1)} 75%,#{fade-out($tan, .2)} 100%);
+  h2 {
+    color: $purple;
+  }
+  iframe {
+    display: block;
+    padding: 2rem;
+  }
+}
